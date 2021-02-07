@@ -2,5 +2,5 @@ package com;
 
 public class LogoutUtility {
 
-    //added awesome code for utility
+    //added awesome code utility file
 }
